@@ -7,9 +7,7 @@ import items from "../resource/items.js";
 
 
 
-
 // TODO: items 나쁜지성 3 이상인 브랜드 배열   @ filter, map 응용 => ['비오템 (BIOTHERM)','러쉬 (LUSH)']
-
 
 
 
